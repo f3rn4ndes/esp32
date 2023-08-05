@@ -1,0 +1,42 @@
+/*
+  Copyright (c), 2023
+  All rights reserved.
+*/
+
+
+Trick: Diagramas
+https://draw.io
+https://app.diagrams.net/
+
+
+Trick: API SPI Flash and Partition Tables
+
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/partition-tables.html
+
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/storage/spi_flash.html
+
+https://kvant-ubl.medium.com/python-utilities-for-esp32-e014625ac3c4
+
+
+Trick: Espressif - Partition Files
+
+%USER%\.platformio\packages\<espressif framework version>\tools\partitions
+
+%USER%\.platformio\packages\framework-arduinoespressif32@3.20007.0\tools\partitions
+
+Default Build (default.csv)
+
+Trick: Flash Partition
+https://wokwi.com/projects/337425600260080210
+
+
+Trick: NVS Partition
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/storage/nvs_flash.html
+
+Trick: Core Dump Partition
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/core_dump.html
+
+Trick: Calculators
+
+https://www.calculator.net/sitemap.html
+
